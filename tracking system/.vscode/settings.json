@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "condition_variable": "cpp",
+        "random": "cpp"
+    }
+}
